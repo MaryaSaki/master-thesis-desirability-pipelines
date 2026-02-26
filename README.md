@@ -1,5 +1,5 @@
-# Interactive Visualization of Multi-Objective Optimization  
-## Using Desirability Functions  
+# # Visualization of Multi-Objective Optimization  
+## Using Desirability Functions
 
 **Master’s Thesis – M.Sc. Automation & IT**  
 TH Köln – University of Applied Sciences (2026)  
