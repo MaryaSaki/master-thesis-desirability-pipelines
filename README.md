@@ -162,7 +162,7 @@ Note: The industrial dataset used in Pipeline 3 is not included due to confident
 
 ##  Thesis Reference
 
-Saki, M. (2026).  
-Visualization of Multi-Objective Optimization using Desirability Functions.  
+Maryam Saki (2026).
+Visualization of Multi-Objective Optimization using Desirability Functions.
 Master’s Thesis, TH Köln – University of Applied Sciences.
 ---
