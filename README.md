@@ -63,7 +63,7 @@ This stage focuses on interpretability and preference-structure transparency.
 ### 🔹 Pipeline 3 — Real-World Case Study
 
 - Application to an industrial dataset  
-- Surrogate modeling (Random Forest, Gaussian Process)  
+- Surrogate modeling (Random Forest)  
 - NSGA-II optimization  
 - Desirability-based ranking under predictive uncertainty  
 - Decision-variable distribution analysis  
