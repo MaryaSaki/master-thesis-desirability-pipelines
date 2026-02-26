@@ -84,8 +84,8 @@ This stage focuses on interpretability and preference-structure transparency.
 ##  Technology Stack
 
 - Python (Jupyter Notebook workflow)  
-- NumPy, pandas, SciPy  
-- scikit-learn (surrogate modeling)  
+- NumPy, Pandas, SciPy  
+- Scikit-learn (surrogate modeling)  
 - Matplotlib (2D & 3D visualization)  
 - spotdesirability (desirability aggregation)  
 - spotoptim (Pareto utilities & optimization tools)  
@@ -125,13 +125,19 @@ master-thesis-desirability-pipelines/
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 1. Clone the repository  
-2. Install required dependencies  
-3. Execute the Jupyter notebooks within each pipeline  
+
+2. Create a virtual environment (recommended)
+
+3. Install required dependencies  
+
+4. Execute the Jupyter notebooks within each pipeline.
 
 Recommended environment: Python 3.10+
+
+Note: The industrial dataset used in Pipeline 3 is not included due to confidentiality. Pipelines 1 and 2 are fully reproducible.
 
 ---
 
