@@ -160,7 +160,7 @@ Note: The industrial dataset used in Pipeline 3 is not included due to confident
 
 ---
 
-##  Thesis Reference
+Thesis Reference
 
 Maryam Saki (2026).
 Visualization of Multi-Objective Optimization using Desirability Functions.
