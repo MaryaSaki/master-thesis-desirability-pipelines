@@ -20,9 +20,13 @@ The repository contains the full Jupyter-based experimental pipelines developed 
 ---
 ## 📊 Example Visualization
 
-Below is an example of a Pareto front colored by aggregated desirability scores (ZDT1 benchmark).
+## 📊 Example Visualization
 
-![ZDT1 Desirability Map](figures/zdt1_desirability.png)
+Pareto-front analysis on the ZDT1 benchmark.  
+Left: Non-dominated vs dominated solutions.  
+Right: Aggregated desirability-based ranking (color-coded).
+
+![ZDT1 Analysis](figures/zdt1_analysis.png)
 
 The color encoding represents aggregated desirability values, illustrating how preference-based ranking aligns with the Pareto-optimal set.
 
