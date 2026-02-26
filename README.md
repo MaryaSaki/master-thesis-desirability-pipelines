@@ -86,7 +86,8 @@ This stage focuses on interpretability and preference-structure transparency.
 - Python (Jupyter Notebook workflow)  
 - NumPy, Pandas, SciPy  
 - Scikit-learn (surrogate modeling)  
-- Matplotlib (2D & 3D visualization)  
+- Matplotlib (2D & 3D visualization)
+- pymoo (multi-objective optimization, NSGA-II) 
 - spotdesirability (desirability aggregation)  
 - spotoptim (Pareto utilities & optimization tools)  
 
