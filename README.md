@@ -156,13 +156,13 @@ jupyter notebook
 
 Recommended environment: Python 3.10+
 
-Note: The industrial dataset used in Pipeline 3 is not included due to confidentiality. Pipelines 1 and 2 are fully reproducible. The industrial dataset used in Pipeline 3 is not included due to confidentiality. Pipelines 1 and 2 are fully reproducible.
+Note: The industrial dataset used in Pipeline 3 is not included due to confidentiality. Pipelines 1 and 2 are fully reproducible.
 
 ---
 
 ##  Thesis Reference
 
 Saki, M. (2026).  
-*Visualization of Multi-Objective Optimization using Desirability Functions.*  
+Visualization of Multi-Objective Optimization using Desirability Functions.  
 Master’s Thesis, TH Köln – University of Applied Sciences.
 ---
