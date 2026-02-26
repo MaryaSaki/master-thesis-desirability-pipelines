@@ -86,8 +86,8 @@ This stage focuses on interpretability and preference-structure transparency.
 - Python (Jupyter Notebook workflow)  
 - NumPy, Pandas, SciPy  
 - Scikit-learn (surrogate modeling)  
-- Matplotlib (2D & 3D visualization)
-- pymoo (multi-objective optimization, NSGA-II) 
+- Matplotlib (2D & 3D visualization)  
+- Pymoo (multi-objective optimization, NSGA-II)  
 - spotdesirability (desirability aggregation)  
 - spotoptim (Pareto utilities & optimization tools)  
 
@@ -128,32 +128,41 @@ master-thesis-desirability-pipelines/
 
 ## How to Run
 
-## ▶ How to Run
-
 1. Clone the repository  
 
 ```bash
 git clone https://github.com/your-username/master-thesis-desirability-pipelines.git
+cd master-thesis-desirability-pipelines
+```
 
-2. Create a virtual environment (recommended)
+2. Create a virtual environment (recommended)  
+
+```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
 
-3. Install required dependencies
+3. Install required dependencies  
+
+```bash
 pip install -r requirements.txt
+```
 
-Execute the Jupyter notebooks within each pipeline.
+4. Launch Jupyter and execute the notebooks within each pipeline  
+
+```bash
+jupyter notebook
+```
 
 Recommended environment: Python 3.10+
 
-Note: The industrial dataset used in Pipeline 3 is not included due to confidentiality. Pipelines 1 and 2 are fully reproducible.
+Note: The industrial dataset used in Pipeline 3 is not included due to confidentiality. Pipelines 1 and 2 are fully reproducible. The industrial dataset used in Pipeline 3 is not included due to confidentiality. Pipelines 1 and 2 are fully reproducible.
 
 ---
 
 ##  Thesis Reference
 
 Saki, M. (2026).  
-* Visualization of Multi-Objective Optimization using Desirability Functions.*  
+*Visualization of Multi-Objective Optimization using Desirability Functions.*  
 Master’s Thesis, TH Köln – University of Applied Sciences.
-
 ---
