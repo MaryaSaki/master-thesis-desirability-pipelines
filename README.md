@@ -128,13 +128,21 @@ master-thesis-desirability-pipelines/
 
 ## How to Run
 
+## ▶ How to Run
+
 1. Clone the repository  
 
+```bash
+git clone https://github.com/your-username/master-thesis-desirability-pipelines.git
+
 2. Create a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-3. Install required dependencies  
+3. Install required dependencies
+pip install -r requirements.txt
 
-4. Execute the Jupyter notebooks within each pipeline.
+Execute the Jupyter notebooks within each pipeline.
 
 Recommended environment: Python 3.10+
 
