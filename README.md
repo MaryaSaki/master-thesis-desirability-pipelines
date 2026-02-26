@@ -26,7 +26,7 @@ Pareto-front analysis on the ZDT1 benchmark.
 Left: Non-dominated vs dominated solutions.  
 Right: Aggregated desirability-based ranking (color-coded).
 
-![ZDT1 Analysis](figures/zdt1_analysis.png)
+![ZDT1 Analysis](figures/zdt1_desirability_analysis.png)
 
 The color encoding represents aggregated desirability values, illustrating how preference-based ranking aligns with the Pareto-optimal set.
 
