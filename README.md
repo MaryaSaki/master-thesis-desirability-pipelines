@@ -5,6 +5,7 @@
 TH Köln – University of Applied Sciences (2026)  
 Author: Maryam Saki  
 Supervisor: Prof. Dr. Thomas Bartz-Beielstein  
+Second Reviewer: Prof. Dr. Boris Naujoks
 
 ---
 
