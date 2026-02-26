@@ -18,6 +18,13 @@ This project investigates **desirability functions** as a preference-based decis
 The repository contains the full Jupyter-based experimental pipelines developed for systematic evaluation, visualization-driven interpretation, and real-world validation.
 
 ---
+## 📊 Example Visualization
+
+Below is an example of a Pareto front colored by aggregated desirability scores (ZDT1 benchmark).
+
+![ZDT1 Desirability Map](figures/zdt1_desirability.png)
+
+The color encoding represents aggregated desirability values, illustrating how preference-based ranking aligns with the Pareto-optimal set.
 
 ##  Research Objectives
 
