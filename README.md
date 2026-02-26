@@ -100,13 +100,16 @@ Their effectiveness strongly depends on objective-space geometry (e.g., convexit
 
 ---
 
-##  Repository Structure
-master-thesis-desirability-pipelines
-pipeline1/   → Benchmark evaluation
-pipeline2/   → Visualization analysis
-pipeline3/   → Real-world application
-└── README.md
+## Repository Structure
 
+```
+master-thesis-desirability-pipelines/
+│
+├── pipeline1/   # Benchmark evaluation
+├── pipeline2/   # Visualization analysis
+├── pipeline3/   # Real-world application
+└── README.md
+```
 
 ---
 
