@@ -18,7 +18,6 @@ This project investigates **desirability functions** as a preference-based decis
 The repository contains the full Jupyter-based experimental pipelines developed for systematic evaluation, visualization-driven interpretation, and real-world validation.
 
 ---
-## 📊 Example Visualization
 
 ## 📊 Example Visualization
 
@@ -117,9 +116,11 @@ Their effectiveness strongly depends on objective-space geometry (e.g., convexit
 ```
 master-thesis-desirability-pipelines/
 │
-├── pipeline1/   # Benchmark evaluation
-├── pipeline2/   # Visualization analysis
-├── pipeline3/   # Real-world application
+├── pipeline1/
+├── pipeline2/
+├── pipeline3/
+├── figures/
+│   └── zdt1_desirability_analysis.png
 └── README.md
 ```
 
